@@ -1,1 +1,1 @@
-# Fiverr-ComputerConferenceDatabase
+# Computer Conference Database (Fiverr Project)
